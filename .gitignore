@@ -1,0 +1,29 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Local env
+.env
+.env.local
+.env.*.local
+
+# Native builds
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# OS / editor
+.DS_Store
+*.pem
+*.tsbuildinfo
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
